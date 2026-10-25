@@ -3,7 +3,7 @@ services:
   - type: web
     name: ptcg-sim-meta
     runtime: node
-    repo: https://github.com/Envoyofhell/ptcg-sim-meta
+    repo: https://github.com/EnvoysRealm/ptcg-sim-meta
     plan: free
     envVars:
       - key: port

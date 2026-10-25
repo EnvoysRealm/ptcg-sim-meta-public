@@ -64,7 +64,7 @@ Contributions to PTCG-Sim-Meta are welcome! If you have ideas for new features, 
 
 Join our community to discuss custom cards, mechanics, and development:
 
-- **GitHub**: [Check for Updates](https://github.com/Envoyofhell/ptcg-sim-meta)
+- **GitHub**: [Check for Updates](https://github.com/EnvoysRealm/ptcg-sim-meta)
 - **Discord**: [Join our server](https://discord.gg/gehvP4cxWK)
 - **X (formerly Twitter)**: [@Envoy_Of_Hell](https://twitter.com/Envoy_Of_Hell)
 
